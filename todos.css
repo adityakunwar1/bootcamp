@@ -1,0 +1,12 @@
+body{
+    background: rgb(238, 102, 11)
+}
+li{
+    border: 2px solid rgb(94, 71, 71)
+}
+#yoyo{
+    background: blueviolet
+}
+.yes{
+    text-decoration:line-through 
+}
