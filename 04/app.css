@@ -1,17 +1,15 @@
 h1 {
-	color: rgb(190, 87, 69);
-	border: 2 px solid blue;
+  color: rgb(190, 87, 69);
+  border: 2 px solid blue;
 }
 
-
-
 h4 {
-	background:rgba(212, 161, 84, 0.377);
+  background: rgba(212, 161, 84, 0.377);
 }
 
 body {
-	background:url(https://image.freepik.com/free-photo/abstract-dense-cloud-azure-smoke_23-2148102083.jpg);
-background-repeat:no-repeat;
-background-size:cover;
-background-attachment: fixed;
+  background: url(https://image.freepik.com/free-photo/abstract-dense-cloud-azure-smoke_23-2148102083.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
